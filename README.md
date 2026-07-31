@@ -27,4 +27,7 @@ BEGIN
     END FUNCTION
 
     CALL MorningSyncMeeting()
+    
+    "The team identified system issues and is working on solutions."
+    "Added a breakdown for team system issue for patch README.md"
 END
