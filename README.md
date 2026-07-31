@@ -28,6 +28,6 @@ BEGIN
 
     CALL MorningSyncMeeting()
     
-    "The team identified system issues and is working on solutions."
+    "The team identified system issues and working on solutions."
     "Added a breakdown for team system issue for patch README.md."
 END
